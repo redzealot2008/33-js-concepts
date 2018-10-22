@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="每个JavaScript开发人员都应该知道的33个概念" width=200"></a>
   <br>
     <br>
   每个JavaScript开发人员都应该知道的33个概念
