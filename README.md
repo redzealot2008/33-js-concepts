@@ -45,7 +45,7 @@
 ### 视频
 
  * 🎥 [Javascript：调用堆栈解释 - Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
- * 🎥 [9分钟了解JS调用堆栈 - Colt Steele](video/The JS Call Stack Explained In 9 Minutes.mp4)
+ * 🎥 [9分钟了解JS调用堆栈 - Colt Steele](http://onmer39jj.bkt.clouddn.com/video/The%20JS%20Call%20Stack%20Explained%20In%209%20Minutes.mp4)
  * 🎥 [JavaScript执行堆栈 - Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
  * 🎥 [什么是调用堆栈？ - Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
  * 🎥 [调用堆栈 - Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
