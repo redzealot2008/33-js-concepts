@@ -46,7 +46,7 @@
 
  * 🎥 [Javascript：调用堆栈解释 - Coding Blocks India](http://qiniu.17card.top/video/Javascript-%20The%20JS%20callstack%20explained%20with%20a%20simple%20example.mp4)
  * 🎥 [9分钟了解JS调用堆栈 - Colt Steele](http://qiniu.17card.top/video/The%20JS%20Call%20Stack%20Explained%20In%209%20Minutes.mp4)
- * 🎥 [JavaScript执行堆栈 - Codecademy](http://qiniu.17card.top/video/Javascript-%20The%20JS%20callstack%20explained%20with%20a%20simple%20example.mp4)
+ * 🎥 [JavaScript执行堆栈 - Codecademy](http://qiniu.17card.top/video/%5BJavaScript%20Tutorial%5D%20012%20JavaScript%20Function%20Invocation%20and%20the%20Execution%20Stack.mp4)
  * 🎥 [什么是调用堆栈？ - Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
  * 🎥 [调用堆栈 - Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
  * 🎥 [理解JavaScript执行 - Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
