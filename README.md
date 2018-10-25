@@ -51,6 +51,6 @@
  * 🎥 [调用堆栈 - Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
  * 🎥 [理解JavaScript执行 - Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
  * 🎥 [调用堆栈和事件循环 - movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
- * 🎥 [JavaScript中执行上下文、提升、范围和闭包的终极指南 - Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+ * 🎥 [JavaScript中执行上下文、提升、范围和闭包的终极指南 - Tyler McGinnis](http://qiniu.17card.top/video/The%20Ultimate%20Guide%20to%20Execution%20Contexts,%20Hoisting,%20Scopes,%20and%20Closures%20in%20JavaScript.mp4)
 
 **[⬆ 返回顶部](#目录)**
